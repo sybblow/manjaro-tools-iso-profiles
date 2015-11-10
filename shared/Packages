@@ -63,6 +63,7 @@ usbutils
 util-linux
 which
 xfsprogs
+zsh
 
 ## Kernel
 KERNEL
@@ -88,6 +89,20 @@ lsof
 >openrc rsync-openrc
 >systemd rsync
 wget
+fcitx
+fcitx-qt4
+fcitx-qt5
+fcitx-gtk2
+fcitx-gtk3
+fcitx-sunpinyin
+fcitx-configtool
+libva-intel-driver
+libva
+libvdpau-va-gl
+
+## Language Support
+man-pages-zh_cn
+
 
 ## Compression utils
 lzop
